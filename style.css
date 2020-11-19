@@ -55,7 +55,7 @@ main, .milieu, .groupeSection {
     flex-diraction: row;
 }
 
-h1, span {
+h1, span, .section2 {
     text-align: center;
 }
 
@@ -89,7 +89,6 @@ nav, section, article {
 }
 
 .section2 {
-    text-align: center;
     padding-top: 20px;
     height: 480px;
 }
