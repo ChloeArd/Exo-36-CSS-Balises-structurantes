@@ -56,13 +56,7 @@ main, .milieu, .groupeSection {
 }
 
 h1, span {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-span, nav {
-    flex-diraction: column;
+    text-align: center;
 }
 
 nav, article, .section1 {
@@ -95,6 +89,7 @@ nav, section, article {
 }
 
 .section2 {
+    text-align: center;
     padding-top: 20px;
     height: 480px;
 }
